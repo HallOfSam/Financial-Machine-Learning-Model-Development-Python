@@ -8,3 +8,6 @@
 
 - In conclusion, machine learning models can enhance investment decision-making by helping us detect whether traditional statistical methods (such as the Black-Scholes equation) overestimate or underestimate option prices. More importantly, machine learning models might offer more accurate predictions when traditional models don’t work well, given their high mean R-squared of 0.9959 in our prediction of European call option prices.
 
+# Note
+
+- For more details, please refer to "report.pdf".
