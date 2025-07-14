@@ -1,6 +1,6 @@
 # Overview
 
-- The project aims to predict European call option values on the S&P 500 using machine learning models. A few variables in Black-Scholoes (BS) formula are used as predictors in our models, including current option value (Value), current asset value (S), strike price of the option (K), annual interest rate (r), time to maturity (tau), and the prediction made by the Black-Scholes equation (BS) denoted as “under” or “over''.
+- The project aims to predict European call option values using machine learning models. A few variables in Black-Scholoes (BS) formula are used as predictors in our models, including current option value (Value), current asset value (S), strike price of the option (K), annual interest rate (r), time to maturity (tau), and the prediction made by the Black-Scholes equation (BS) denoted as “under” or “over''.
 
 - We build regression models to predict option values, and classification models to classify whether Black-Scholes equation prediction overestimated (“over”) or underestimated (“under”) the European call option value. 
 
